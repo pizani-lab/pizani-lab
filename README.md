@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="assets/banner.png" alt="AI Banner" />
-</p>
 
-<h1 align="center">🚀 Daniel Pizani</h1>
+<h1 align="center">🤝 Daniel Pizani</h1>
 <h3 align="center">Senior Data Engineer | AI Engineer | Full Stack Developer</h3>
 
 <p align="center">

@@ -7,10 +7,27 @@
 </p>
 
 ---
-
 ## 🧬 Sobre mim
 
 Engenheiro de Dados Sênior e Desenvolvedor Full Stack com mais de **18 anos de experiência**, especializado na construção de soluções escaláveis orientadas a dados e IA.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/data-engineer-ai-python)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pizanao@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pizani-lab)
+
+---
+
+## [Dataflow Agent](https://github.com/pizani-lab/dataflow-agent)
+![Dataflow Agent Badge](https://img.shields.io/badge/Dataflow_Agent-Active-brightgreen)
+A versatile tool for managing data flows in real-time.
+
+## [Lake House Lab](https://github.com/pizani-lab/lake-house-lab)
+![Lake House Lab Badge](https://img.shields.io/badge/Lake_House_Lab-Community-blue)
+An experimental lab for building lake house architectures.
+
+---
 
 Atuação forte em:
 
@@ -18,6 +35,7 @@ Atuação forte em:
 - 🔍 Arquiteturas RAG e memória semântica  
 - 📊 Engenharia de Dados (ETL/ELT)  
 - ☁️ Arquiteturas cloud modernas  
+
 
 ---
 
@@ -38,11 +56,5 @@ Atuação forte em:
 
 ---
 
-## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/data-engineer-ai-python)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pizanao@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pizani-lab)
-
----
 

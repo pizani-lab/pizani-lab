@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AI Banner" st/>
+  <img src="assets/banner.png" alt="AI Banner" />
 </p>
 
 <h1 align="center">🚀 Daniel Pizani</h1>
@@ -29,10 +29,10 @@ Atuação forte em:
 ```text
 ✔ Data Engineering (ETL/ELT, Data Lake, Data Warehouse)
 ✔ AI Engineering (LLMs, RAG, Agents)
-✔ ‘Software’ Architecture & Microservices
+✔ Software Architecture & Microservices
 ✔ Cloud & DevOps
 ✔ Data Integration & Automation
-````
+```
 
 ---
 
@@ -90,6 +90,7 @@ REST • SOAP • Salesforce • Meta Business Suite • Web Services
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pizani-lab&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizani-lab&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pizani-lab&theme=tokyonight" />
 </p>
 
 ---
@@ -103,10 +104,27 @@ REST • SOAP • Salesforce • Meta Business Suite • Web Services
 
 ---
 
-## 🌎 Connect with me
+## 🌐 Connect with me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/data-engineer-ai-python
-* 📧 Email: pizanao@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/data-engineer-ai-python)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pizanao@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pizani-lab)
+
+---
+
+## 🤝 Open Source & Community
+
+- 🔧 Contribuições ativas em projetos de IA e Data Engineering
+- 💬 Participação em comunidades tech
+- 🚀 Sempre aberto a colaborações e discussões técnicas
+
+---
+
+## 💡 Destaques
+
+💬 *"Transformando dados em inteligência através de sistemas orientados por IA."*
+
+🎯 **Sempre aberto a oportunidades, parcerias e conversas sobre IA, Data Engineering e arquiteturas modernas.**
 
 ---
 
@@ -126,4 +144,3 @@ Specialized in:
 ## 💡 Highlight
 
 💬 *"Turning data into intelligence through AI-driven systems."*
-

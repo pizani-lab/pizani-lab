@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AI Banner" />
+  <img src="assets/banner.png" alt="AI Banner" st/>
 </p>
 
 <h1 align="center">🚀 Daniel Pizani</h1>
@@ -88,8 +88,8 @@ REST • SOAP • Salesforce • Meta Business Suite • Web Services
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pizani-lab&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizani-lab&layout=compact&theme=tokyonight"/>
 </p>
 
 ---

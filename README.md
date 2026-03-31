@@ -24,17 +24,6 @@ Atuação forte em:
 
 ---
 
-## ⚡ Especialidades
-
-```text
-✔ Data Engineering (ETL/ELT, Data Lake, Data Warehouse)
-✔ AI Engineering (LLMs, RAG, Agents)
-✔ Software Architecture & Microservices
-✔ Cloud & DevOps
-✔ Data Integration & Automation
-```
-
----
 
 ## 🤖 AI & Data Expertise
 
@@ -46,22 +35,6 @@ Atuação forte em:
 * 📊 Apache Spark, Kafka, Big Data
 
 ---
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-`Python` • `SQL` • `JavaScript` • `Node.js` • `Java`
-
-### 🤖 AI & Data
-
-`LangChain` • `RAG` • `LLMs` • `Prompt Engineering`
-`Spark` • `Kafka` • `Hadoop`
-
-### ☁️ Cloud & DevOps
-
-`AWS` • `GCP` • `Azure` • `Docker` • `CI/CD`
-`Linux` • `NGINX`
 
 ### 🔗 Integrations
 
@@ -88,8 +61,6 @@ REST • SOAP • Salesforce • Meta Business Suite • Web Services
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pizani-lab&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizani-lab&layout=compact&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pizani-lab&theme=tokyonight" />
 </p>
 

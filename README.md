@@ -21,40 +21,6 @@ Atuação forte em:
 
 ---
 
-
-## 🤖 AI & Data Expertise
-
-* 🧠 LangChain & Agno
-* 🔍 Retrieval-Augmented Generation (RAG)
-* 📦 Vector Databases & Semantic Search
-* 🧩 Model Context Protocol (MCP)
-* ⚙️ LLM Integration (OpenAI, APIs, etc.)
-* 📊 Apache Spark, Kafka, Big Data
-
----
-
-### 🔗 Integrations
-
-REST • SOAP • Salesforce • Meta Business Suite • Web Services
-
----
-
-## 📌 Projetos em destaque
-
-* 🤖 **AI Agents Platform**
-  Sistema de agentes inteligentes com LangChain + memória semântica
-
-* 🔍 **RAG System (LLM + Vector DB)**
-  Busca semântica com recuperação de contexto
-
-* 📊 **Real-time Data Pipeline**
-  Pipeline com Kafka + Spark + Data Lake
-
-* ⚙️ **Automation Platform**
-  Integração de APIs + automação inteligente
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -80,35 +46,3 @@ REST • SOAP • Salesforce • Meta Business Suite • Web Services
 
 ---
 
-## 🤝 Open Source & Community
-
-- 🔧 Contribuições ativas em projetos de IA e Data Engineering
-- 💬 Participação em comunidades tech
-- 🚀 Sempre aberto a colaborações e discussões técnicas
-
----
-
-## 💡 Destaques
-
-💬 *"Transformando dados em inteligência através de sistemas orientados por IA."*
-
-🎯 **Sempre aberto a oportunidades, parcerias e conversas sobre IA, Data Engineering e arquiteturas modernas.**
-
----
-
-# 🇺🇸 About Me (EN)
-
-Senior Data Engineer and Full Stack Developer with 18+ years of experience in Data Engineering, Artificial Intelligence, and Software Development.
-
-Specialized in:
-
-* AI Agents & Generative AI
-* RAG Architectures
-* Scalable Data Pipelines
-* Cloud-native Systems
-
----
-
-## 💡 Highlight
-
-💬 *"Turning data into intelligence through AI-driven systems."*
